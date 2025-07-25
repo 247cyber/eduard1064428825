@@ -86,3 +86,10 @@ footer {
    position: fixed;
    width: 100%;
 }
+.pagina-historia main {
+  background-color: #fff3f0;
+}
+
+.pagina-historia h1 {
+  color: #61f946;
+}
